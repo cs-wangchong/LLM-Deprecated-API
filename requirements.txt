@@ -1,0 +1,6 @@
+transformers
+openai
+tqdm
+fuzzywuzzy
+tree-sitter
+peft
