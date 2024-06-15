@@ -11,7 +11,8 @@ This is the replication package for ASE submission #1438, titled *LLMs Meet Libr
 ### Step 1: API Mapping Collection
 The statistics of the collected 145 API mappings are presented Table 1. The detailed list of all API mappings can be found in [Appendix](#appendix).
 
-![table1](./images/API-Mappings.png)
+<img src="./images/API-Mappings.png" alt="table1" style="width:500px;"/>
+<!-- ![table1](./images/API-Mappings.png) -->
 
 ### Step 2: Completion Prompt Construction
 The line-level code completion prompts constructed from the *outdated* and *up-to-dated* functions can be found in [probing-inputs](https://figshare.com/s/e8de860d8fc2ec0541d2?file=47077525). Each sample is formated as a JSON dict, where 
