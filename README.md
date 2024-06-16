@@ -11,7 +11,7 @@ This is the replication package for ASE submission #1438, titled *LLMs Meet Libr
 ### Step 1: API Mapping Collection
 The statistics of the collected 145 API mappings are presented Table 1. The detailed list of all API mappings can be found in [Appendix](#appendix).
 
-<img src="[./images/API-Mappings.png](https://anonymous.4open.science/r/Replication-Deprecated-API-Usage-in-LLM-based-Code-Completion/images/API-Mappings.png)" alt="table1" style="width:500px;"/>
+<img src="https://anonymous.4open.science/r/Replication-Deprecated-API-Usage-in-LLM-based-Code-Completion/images/API-Mappings.png" alt="table1" style="width:500px;"/>
 <!-- ![table1](./images/API-Mappings.png) -->
 
 ### Step 2: Completion Prompt Construction
